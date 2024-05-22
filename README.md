@@ -1,4 +1,4 @@
-#Scritto un codice che crea messaggi casuali
+# Scritto un codice che crea messaggi casuali
 
 il codice è formato da:
 
